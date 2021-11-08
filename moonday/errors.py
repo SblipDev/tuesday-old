@@ -1,0 +1,3 @@
+
+class MondayError(Exception):
+    pass
