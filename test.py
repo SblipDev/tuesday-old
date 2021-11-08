@@ -1,5 +1,5 @@
-from moonday.boards import Board
-from moonday.columns import Column
+from tuesday.boards import Board
+from tuesday.columns import Column
 from dotenv import dotenv_values
 
 config = dotenv_values(".env") 
