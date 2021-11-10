@@ -1,8 +1,6 @@
 import requests
 import json
 
-from sqlalchemy import column
-
 from .utils import j,s
 from .errors import MondayError
 
