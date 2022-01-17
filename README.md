@@ -1,3 +1,3 @@
 # Tuesday
 ## Monday.com Python Client.
-IN DEVELOPMENT
+Go to /tuesday/ for updated repo
